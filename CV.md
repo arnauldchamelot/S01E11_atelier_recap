@@ -26,7 +26,7 @@
 **Formation**
 
 * 2018 - faire du café
-* 2016 - monter le faucon millenium
+* 2016 - montage du faucon millenium
 * 2015 - lecture d'une notice
 
 **Autres**
