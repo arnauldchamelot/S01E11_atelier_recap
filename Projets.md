@@ -18,4 +18,3 @@
 ___
 
 <font size="1.5pt">© 2024 - Arnauld Chamelot - [Contact](https://github.com/arnauldchamelot/S01E11_atelier_recap/blob/main/contact.md "page contact")</font>
-
