@@ -14,4 +14,4 @@
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="15"/> <a href="https://www.linkedin.com/company/25974037/admin/feed/posts/">arnauld</a></img>
 
 _________________________
-<font size="1pt">© 2024 - Arnauld Chamelot - [Contact](https://github.com/arnauldchamelot/S01E11_atelier_recap/blob/main/contact.md "page contact")</font>
+<font size="12pt">© 2024 - Arnauld Chamelot - [Contact](https://github.com/arnauldchamelot/S01E11_atelier_recap/blob/main/contact.md "page contact")</font>
