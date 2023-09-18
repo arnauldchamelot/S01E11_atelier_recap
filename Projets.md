@@ -9,7 +9,7 @@
 
 | Clients       | Dates           | Technologies  |Lien  |Logo |
 | :-----------: |:-------------:| :----:| :----:| :----:|
-| Microsoft      | 2022 | HTLM,SASS,JavaScript | [Microsoft](https://www.microsoft.com "Site Microsoft")|<img src="lgo_micro.png" width="30"/></img>
+| Microsoft      | 2022 | HTLM,SASS,JavaScript | [Microsoft](https://www.microsoft.com "Site Microsoft")|<img src="lgo_micro.png" width="40"/></img>
 | Google      | 2021      |   Node, Markdown |[google](https://www.google.com "Site Google")|<img src="https://productiondesens.com/wp-content/uploads/2023/09/logo-business-thumbnail.png" width="35"/></img>
 | Mme Ma Mère | 2023      |    HTLM | [Oldup](https://www.oldup.fr/ "Site Old Up")|<img src="https://mouvement-europeen.eu/wp-content/uploads/2018/02/logo-oldup.png" width="20"/></img>
 | Procuction de Sens | 2015      |   WP | [PdS](https://www.productiondesens.com.fr/ "Site Production de Sens")|<img src="https://productiondesens.com/wp-content/uploads/2017/03/fav114.jpg" width="15"/></img>
@@ -17,5 +17,5 @@
 
 ___
 
-<font size="1,5pt">© 2024 - Arnauld Chamelot - [Contact](https://github.com/arnauldchamelot/S01E11_atelier_recap/blob/main/contact.md "page contact")</font>
+<font size="1.5pt">© 2024 - Arnauld Chamelot - [Contact](https://github.com/arnauldchamelot/S01E11_atelier_recap/blob/main/contact.md "page contact")</font>
 
