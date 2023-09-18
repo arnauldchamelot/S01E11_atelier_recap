@@ -7,7 +7,7 @@
 
 ## Contact
 
-📭 arnauld.chamelot@oclock.school
+📭  <a href="mailto:arnauld.chamelot@oclock.school">arnauld.chamelot@oclock.school</a>
 
 📞 06 07 06 07 18 29
 
