@@ -14,6 +14,8 @@
 
 94400 Proche de la mer
 
+<a href="mailto:arnauld.chamelot@oclock.school">arnauld.chamelot@oclock.school</a>
+
 **Expérience**
 
 * 2022 - Absoluement rien à dire
@@ -32,5 +34,5 @@
 * Permis B
 * Musique
 * Sport
-_________________________
+___
 <font size="1,5pt">© 2024 - Arnauld Chamelot - [Contact](https://github.com/arnauldchamelot/S01E11_atelier_recap/blob/main/contact.md "page contact")</font>
