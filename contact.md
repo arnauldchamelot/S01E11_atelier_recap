@@ -7,7 +7,9 @@
 
 ## Contact
 
+📭 arnauld.chamelot@oclock.school
 
+📞 06 07 06 07 18 29
 
 _________________________
 © 2024 - Arnauld Chamelot - [Contact](https://github.com/arnauldchamelot/S01E11_atelier_recap/blob/main/contact.md "page contact")
