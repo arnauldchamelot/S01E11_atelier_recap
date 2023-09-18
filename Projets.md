@@ -3,7 +3,7 @@
 
 *Développeur web junior en formattion chez O'Clock " Développement Web et Accessibilité"*
 
-[Accueil](https://github.com/arnauldchamelot/S01E11_atelier_recap/blob/main/README.md "page acceuil") - [Projets](https://github.com/arnauldchamelot/S01E11_atelier_recap/blob/main/Projets.md "page projets") - [CV](https://www.google.com "page CV") - [Contact](https://www.google.com "page contact")
+[Accueil](https://github.com/arnauldchamelot/S01E11_atelier_recap/blob/main/README.md "page acceuil") - [Projets](https://github.com/arnauldchamelot/S01E11_atelier_recap/blob/main/Projets.md "page projets") - [CV](https://github.com/arnauldchamelot/S01E11_atelier_recap/blob/main/CV.md "page CV") - [Contact](https://github.com/arnauldchamelot/S01E11_atelier_recap/blob/main/contact.md "page contact")
 
 ## Mes projets
 
@@ -15,4 +15,4 @@
 
 ___
 
-© 2024 - Arnauld Chamelot - [Contact](https://www.google.com "page contact")
+© 2024 - Arnauld Chamelot - [Contact](https://github.com/arnauldchamelot/S01E11_atelier_recap/blob/main/contact.md "page contact")
