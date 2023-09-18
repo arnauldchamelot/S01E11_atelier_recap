@@ -1,0 +1,18 @@
+![logo_moi](https://fastly.picsum.photos/id/1005/800/300.jpg?hmac=LcHrvqq-CpNZxTg2JWPaRp-GL6HuOx6eBSkMQ67HpF8 "mon_image")
+# arnauld chamelot
+
+*Développeur web junior en formattion chez O'Clock " Développement Web et Accessibilité"*
+
+[Accueil](https://www.google.com "page acceuil") - [Projets](https://www.google.com "page projets") - [CV](https://www.google.com "page CV") - [Contact](https://www.google.com "page contact")
+
+## Mes projets
+
+| Clients       | Dates           | Technologies  |Lien  |
+| :-----------: |:-------------:| :----:| :----:|
+| Microsoft      | 2022 | HTLM,SASS,JavaScript | [Microsoft](https://www.microsoft.com "Site Microsoft")
+| Google      | 2021      |   Node, Markdown |[google](https://www.google.com "Site Google")
+| Mme Ma Mère | 2023      |    HTLM | [oldup](https://www.oldup.fr/m "Site Old Up")
+
+___
+
+© 2024 - Arnauld Chamelot - [Contact](https://www.google.com "page contact")
